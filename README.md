@@ -30,7 +30,7 @@ To run **Portfolio** locally, run this command on your git bash:
 Windows:
 
 ```bash
-git clone https://github.com/abhijeet1681/Disney_Clone.git
+git clone https://github.com/abhijeet1681/Disney-plus-Clone.git
 ```
 
 ### Contact
